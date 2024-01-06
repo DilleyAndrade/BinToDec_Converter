@@ -2,7 +2,6 @@
 
 import { useState } from "react"
 
-
 export default function Home() {
 
   const [binaryInput, setBinaryInput] = useState<string>('')
@@ -13,7 +12,6 @@ export default function Home() {
     setBinaryInput(input)
     setDecimalOutput(convertBinaryToDecimal(input))
     console.log(input)
-
   }
 
   const convertBinaryToDecimal = (binary:string) => {
