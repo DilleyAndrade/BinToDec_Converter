@@ -2,7 +2,7 @@
 <h4>
     Este é um simples conversor de números binários para decimais, 
     desenvolvido para facilitar a conversão entre sistemas numéricos. 
-    O código fonte está escrito em javascript e é fácil de entender e utilizar.
+    O código fonte está escrito em typescript com nextJs e é fácil de entender e utilizar.
 </h4>
 <hr/>
 <img src="/public/thumb.png">
